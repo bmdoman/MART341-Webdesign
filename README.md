@@ -1,2 +1,2 @@
-# MART341-Webdesign
+# Bailee Doman MART341-Webdesign
 Repository for my Intro to Web Design Homework
