@@ -1,0 +1,7 @@
+1. Three websites I enjoy visiting are Occupation Wild, AllTrails, and Pintrest.
+
+2. The relationship between an IP address and DNS Server is that when you type in a website domain and then you send it off, the DNS server gets the IP address for that website and then gives you a website.
+
+3. A cookie is all of the personal information that a website will store for you when you go to that website. For example, when you go to Facebook.com you it stores the information from your profile so you do not have to log in every time because it knows who you are.
+
+4. Three essential parts of a URL are the protocol, the domain name and the path.
