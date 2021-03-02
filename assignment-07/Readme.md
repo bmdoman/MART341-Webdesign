@@ -1,0 +1,5 @@
+1. I have come across a lot of forms while browsing the web. They help gather information in a really easy way and make it so it is user friendly and also gathers information for the server and makes it easy for the server to gather it as well. One that I have used is filling out job applications. They give you all sorts of forms in there from drop down ones to select your state you are from, to having to put in your social security number in where it shows up like a password.
+
+2. A text would be the Moodle username log in page, a button input would be the post button Facebook uses. A selection would be having to select Democrat, Republican or Other when registering to vote. They all serve important uses. They make it so that when you are filling out information on the internet you do not know how to use code, just plain text to input information. The also are ways that the person wanting the information can figure out whether you have a little bit of freedom or a lot of freedom when deciding what information to add to the forms.  
+
+3. With this assignment, I just take it little bit at a time so I do not get overwhelmed.  
