@@ -1,0 +1,5 @@
+1. The universal selector is used to select every element on the page and you use the *. The element selector is when you want to just select the element and change that one. The class selector is when you want to select all of the elements in the same class to change them together. The id selector is when you are wanting to change just one div. 
+
+2. The color pallet I chose was actually off of a picture that I found when searching for my images. When I saw the colors I wanted in my color pallet I hit inspect on the page and then went through the css colors for that color pallet and figured out which colors I wanted to use and the values associated with them. I used a Teal, I used a slightly different color of teal #20C997, I used a hot pink color #FF69B4, I used corn silk #FFF8DC, I used yellow #FFC107. I used a few more colors than three.
+
+3. One of my challenges this week was figuring out how to get the colors to show up on the page. It was a lot of little tweaks here and there. I just went back through my css style sheet.
