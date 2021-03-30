@@ -1,0 +1,46 @@
+  div{
+    text-align: center;
+    line-height: 1.50em;
+    font-family: WorkSans; sans-serif;
+    margin-bottom: 15px;
+    padding: 20px;
+  }
+
+  h1, h3, h4{
+    text-align: center;
+    font-family: Oswald, san-serif;
+
+  }
+
+  .opening-paragraph{
+    color: #DC3545;
+    font-size: 25px;
+    text-indent: 10px;
+    font-weight: 600;
+  }
+  .opening-paragraph:: first-line{
+    font-size: 30px;
+
+  }
+  .second-paragraph{
+    font-size: 17px;
+  }
+
+  #book_info{
+    text-decoration:none;
+    font-family: san-serif;
+  }
+  #book_info: hover{
+    font-family: WorkSans, san-serif;
+    text-decoration: underline;
+    font-weight: 600;
+  }
+  table{
+    border: 2px solid black;
+    font-family: WorkSans, sans-serif;
+    font-weight: 600;
+  }
+
+  p{
+    font-family: sans-serif;
+  }
