@@ -1,0 +1,3 @@
+1. The difference between padding, margin and borders is they affect different parts of the content they are displaying. The padding is the space around the element it is displaying and all other elements. The margin is the space between the element and the other elements. The border is what contains the element, borders can be visible or invisible.
+
+2. I actually found this assignment really fun. The hardest thing for me is actually choosing colors. I am very poor at choosing which colors really fit with the theme of the webpage. To overcome this I did a lot of research on looking for different colors on the internet with the book cover and figuring out which colors fit well together
