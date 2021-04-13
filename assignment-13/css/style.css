@@ -1,0 +1,185 @@
+  *{
+    box-sizing: border-box;
+  }
+
+  .textarecomments{
+    padding-bottom: 250px;
+  }
+  /*Background Color Ivory*/
+  body{
+    background-color: #FFFFF0
+  }
+  div{
+    text-align: left;
+    line-height: 1.50em;
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 12px;
+    padding: 7px;
+  }
+  h1, h2, h4{
+    text-align: center;
+    font-family: Lora, serif
+  }
+
+    .opening-paragraph{
+      color: black;
+      font-size: 15px;
+      text-indent: 12px;
+      font-weight: 700;
+    }
+    .opening-paragraph{
+      font-size: 15px
+    }
+    .second-paragraph{
+      font-size: 15px
+    }
+    table{
+      border: 1.5px, double black;
+      font-family: Lora, serif;
+      font-weight: 600;
+      padding: 10px
+    }
+    p{
+      font-family: Montserrat, sans-serif;
+    }
+    /*Header color orange*/
+    header{
+      position: fixed;
+      top: 0px;
+      left: 0px;
+      background color: #FFA500;
+      font-family: Montserrat;
+      text-transform: uppercase;
+      margin-top: 0;
+      height: 4em;
+      width: 100%;
+      text-align: left;
+    }
+    /* background color orange*/
+    .menu-item{
+      display: inline-block;
+      margin: 1em .2em;
+      min-width: 6em;
+      text-align: center;
+      background-color: #FFA500;
+      padding: .5em 1em;
+    }
+    /*.menu-item color orange*/
+    .menu-item{
+      color: #FFA500
+      text-decoration: none;
+    }
+    .menu-item:hover{
+      background-color: gray;
+    }
+    .dropdown{
+      display: inline-block;
+    }
+    .dropdown-content{
+      display: none;
+      position: absolute;
+      border: 1.5px solid #000;
+      margin: .5em 0 0 -1em;
+      color: #000;
+      background-color: #FFFF00;
+      z-index: 1;
+    }
+    .dropdown-content a{
+      color: #000;
+    }
+    .dropdown:hover .dropdown-content{
+      display: block;
+    }
+    .dropdown-item {
+      display: block;
+      text-align: left;
+      margin: 0;
+      padding: 0.5em 1em 0.5em 1em;
+      min-width: 5.9em;
+    }
+
+    .dropdown-item:hover, .dropdown-item:hover a{
+      color: black;
+      background-color: #a2a2a2;
+    }
+    .mainimage{
+      float: left;
+      content: url("../images/housesitting.jpg");
+    }
+
+    /* For width 600px and larger:*/
+    @media only screen and (min-width: 600px){
+        .mainimage{
+          content:url("../images/housesitting.jpg");
+        }
+    }
+
+    .secondimage{
+      float:right;
+      content:url("../images/cleaning_supplies.jpg");
+    }
+    @media only screen and (min-width: 600px) {
+      .secondimage{
+        float:right;
+        content:url("../images/cleaning_supplies.jpg");
+      }
+    }
+
+    .thirdimage{
+      margin: auto;
+      content:url("../images/cleaning_supplies.jpg");
+    }
+
+    @media only screen and (min-width:600px){
+      .thirdimage{
+        margin:auto;
+        content:url("../images/cleaning_supplies.jpg");
+      }
+    }
+    .fourthimage{
+      margin:auto;
+      content: url("../images/babysitting.png");
+    }
+    @media only screen and (min-width:600px) {
+      .fourthimage{
+        margin:auto;
+        content: url("../images/babysitting.png");
+      }
+    }
+    .fifthimage{
+      margin: auto;
+      content: url("../images/cleaning_supplies.jpg");
+    }
+    @media only screen and (min-width: 600px){
+      .fifthimage{
+        margin:auto;
+        content: url("../images/cleaning_supplies.jpg");
+      }
+    }
+    .col-1 {width:8.35%;}
+    .col-2 {width:16.66%;}
+    .col-3 {width:25%;}
+    .col-4 {width:33.33%;}
+    .col-5 {width:41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width:58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+
+    [class*="col-"] {
+      float:left;
+      padding: 15px;
+    }
+    .row::after{
+      content:"";
+      clear: both;
+      display: table;
+
+    }
+    .contactus{
+      width:50%;
+      margin-left:25%;
+    }
