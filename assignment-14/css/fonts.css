@@ -1,0 +1,21 @@
+
+  @font-face {
+    font-family: 'Lora-Bold';
+    src: url('../fonts/Lora-Bold.ttf') format('truetype');
+    font-style: 600;
+  }
+  @font-face{
+    font-family: 'Lora';
+    src: url('../fonts/Lora-Regular.ttf') format('truetype');
+    font-style: normal;
+  }
+  @font-face{
+    font-family: 'Montserrat-Bold';
+    src: url('../fonts/Montserrat-Bold.ttf') format('truetype');
+    font-style: 600;
+  }
+  @font-face{
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
+    font-style: normal;
+  }
