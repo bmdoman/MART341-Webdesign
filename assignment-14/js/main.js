@@ -1,7 +1,8 @@
-
- var c=
- document.getElementByID("myCanvas");
+ var c=document.getElementByID("myCanvas");
+ canvas.width= 600;
+ canvas.height= 400;
  var ctx= c.getContext("2d");
+
 
  //first line
  ctx.moveTo(0, 0);

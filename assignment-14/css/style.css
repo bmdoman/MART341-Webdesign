@@ -18,7 +18,8 @@
   }
   h1, h2, h4{
     text-align: center;
-    font-family: Lora, serif
+    font-family: Lora, serif;
+    padding-top: 3px;
   }
 
     .opening-paragraph{
